@@ -1,12 +1,18 @@
 # Python Interview Preparation
 
-This repository contains my solutions to Python and algorithms problems while preparing for Machine Learning Engineer interviews.
+This repository contains my Python and algorithm practice while preparing for Machine Learning Engineer interviews.
 
-Topics:
+## Topics
 
-- Python
+- Python basics
+- Data structures
 - Algorithms
-- Data Structures
-- OOP
 - Recursion
-- ML Coding Challenges
+- ML coding tasks
+
+## Progress
+
+Day 01:
+- Second largest element
+- Word counter
+- Recursive flatten
